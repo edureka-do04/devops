@@ -1,11 +1,12 @@
 node("Maven"){
 stage("1"){
+  git "url"
 }
 
-stage("1"){
+stage("2"){
 }
 
-stage("1"){
+stage("3"){
 }
 
 }
